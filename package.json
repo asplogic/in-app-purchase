@@ -29,7 +29,7 @@
     "test": "make lint && make test"
   },
   "engines": {
-    "node": ">=16 <= 18"
+    "node": ">=16"
   },
   "contributors": [],
   "keywords": [
